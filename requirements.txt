@@ -1,0 +1,6 @@
+scipy
+Pillow
+pettingzoo>=1.24.0
+pygame>=2.1.0
+gymnasium>=0.29.0
+numpy>=1.21.0
